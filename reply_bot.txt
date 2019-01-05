@@ -1,0 +1,2 @@
+Bot that replies to reddit posts containing the string "zim".
+Bot posts an image of Great Zimbabwe
